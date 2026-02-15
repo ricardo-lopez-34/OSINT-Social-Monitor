@@ -1,0 +1,5 @@
+__pycache__/
+.env
+api_keys.json
+data_cache/
+*.pyc

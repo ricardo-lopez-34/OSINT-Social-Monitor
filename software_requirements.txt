@@ -1,0 +1,6 @@
+streamlit>=1.26.0
+pandas
+textblob
+tweepy
+plotly
+requests
